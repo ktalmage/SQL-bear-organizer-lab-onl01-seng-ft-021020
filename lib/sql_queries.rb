@@ -31,4 +31,3 @@ def selects_bear_that_killed_Tim
  
 end
 
-puts selects_bear_that_killed_Tim
